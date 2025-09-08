@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brighammerrick&abbreviated=true&style=for-the-badge&color=a277ff)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brighammerrick&theme=aura&rank=S,AAA,AA,A,B,C&column=3" alt="brighammerrick" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brighammerrick&theme=aura&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3" alt="brighammerrick" /></a> </p>
 
 -  I’m currently working on **many ideas**
 
